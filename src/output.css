@@ -559,6 +559,10 @@ video {
   margin-right: 10px;
 }
 
+.block {
+  display: block;
+}
+
 .flex {
   display: flex;
 }
@@ -573,6 +577,10 @@ video {
 
 .h-12 {
   height: 3rem;
+}
+
+.h-auto {
+  height: auto;
 }
 
 .w-full {
